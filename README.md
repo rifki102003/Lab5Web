@@ -1,6 +1,6 @@
-# |       Nama     | NIM        |         KELAS       | 
-# | -------------- | ---------- | ------------------- |
-# | MUHAMAD RIFKI  | 31******5  |        TI.21.A.1    |
+|       Nama     | NIM        |         KELAS       | 
+| -------------- | ---------- | ------------------- |
+| MUHAMAD RIFKI  | 31******5  |        TI.21.A.1    |
 
 # PEMBAHASAN PRAKTIKUM 5
 
